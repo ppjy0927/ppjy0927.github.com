@@ -99,11 +99,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student majoring in **data science**. <br> I am interested in **bioinformatics**."
   location         : "Suwon, Korea"
-  #email            : "ppjy0927@khu.ac.kr"
+  email            : "ppjy0927@khu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "ppjy0927@khu.ac.kr"
+      # url: "ppjy0927@khu.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
