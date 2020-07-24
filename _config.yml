@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Development Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -95,11 +95,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ji Yeon Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a student majoring in **data science**. I am interested in **bioinformatics**"
+  location         : "Suwon, Korea"
+  email            : "ppjy0927@khu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
