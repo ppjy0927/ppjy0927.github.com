@@ -21,8 +21,8 @@ locale                   : "en-US"
 title                    : "Development Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Ji Yeon Lee"
+description              : "Data Science Blog"
 url                      : "https://ppjy0927.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,7 +97,7 @@ analytics:
 author:
   name             : "Ji Yeon Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a student majoring in **data science**. I am interested in **bioinformatics**"
+  bio              : "I am a student majoring in **data science**. <br> I am interested in **bioinformatics**."
   location         : "Suwon, Korea"
   email            : "ppjy0927@khu.ac.kr"
   links:
